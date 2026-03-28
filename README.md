@@ -122,7 +122,3 @@ void loop() {
 Feel free to fork and improve this project.
 
 ---
-
-## 📄 License
-
-This project is open-source under the MIT License.
